@@ -12,10 +12,151 @@
             "avatar": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fungdungthuongmaidientu3-ff18b6d4-d61d-4fa0-9290-1550a104edc7/ImagePicker/1cf3e85d-1fa9-4282-890d-03f64895ac3f.jpeg"
         }
     ],
-    "sanpham":[
+    "Products":[
         {
-            "tensanpham":"iphone",
-            "gia":"20000000"
-        }
+            "id": "1",
+            "name": "Balo da thời trang chất liệu DA PU c",
+            "image": "https://gubag.vn/wp-content/uploads/2022/05/balo-dung-laptop-cong-so-gubag-gb-bl46-1.webp",
+            "price": 1300000,
+            "description": "Túi nữ da mềm đựng điện thoại kèm dây đeo chéo dập vân nổi họa tiết monogram thời trang vintage dự tiệc đi chơi",
+            "discountedPrice": 1270000,
+            "rating": 4.5,
+            "reviews": [
+              {
+                "name": "Lê Đức Anh",
+                "comment": "Sản phẩm rất tốt!",
+                "rating": 5,
+                "date": "2024-12-08",
+                "image": "https://example.com/review-image1.jpg",
+                "color": "Đen",
+                "size": "L",
+                "style": "Cổ tròn"
+              },
+              {
+                "name": "Người dùng B",
+                "comment": "Chất lượng tuyệt vời!",
+                "rating": 4,
+                "date": "2024-12-07",
+                "image": "https://example.com/review-image2.jpg",
+                "color": "Trắng",
+                "size": "M",
+                "style": "Cổ tim"
+              }
+            ],
+            "category": "Thời trang",
+            "highlights": "Chất lượng cao, thiết kế đẹp, giá rẻ"
+          },
+          {
+            "id": "2",
+            "name": "Đầm Len Sọc Form Rộng Co Dãn Mix Khăn Sành Điệu, Váy Bầu Phong Cách Thời Trang",
+            "image": "https://media.routine.vn/prod/media/cach-phoi-ao-len-nu-3-akcl.webp",
+            "price": 1000000,
+            "description": "Đầm Len Sọc Form Rộng Co Dãn Mix Khăn Sành Điệu, Váy Bầu Phong Cách Thời Trang - 1 màu y hình- Chất liệu: Len (Do ánh sáng và thiết bị chụp hình, màu sắc hình ảnh thực tế có thể chênh lệch)- Form dáng thích hợp với các bạn nữ dưới 60kg.",
+            "discountedPrice": 815000,
+            "rating": 4,
+            "reviews": [
+              {
+                "name": "Người dùng C",
+                "comment": "Mua rất hài lòng.",
+                "rating": 4,
+                "date": "2024-12-06",
+                "image": "",
+                "color": "Đỏ",
+                "size": "XL",
+                "style": "Cổ tròn"
+              },
+              {
+                "name": "Người dùng D",
+                "comment": "Sản phẩm có giá trị tốt.",
+                "rating": 3,
+                "date": "2024-12-05",
+                "image": "",
+                "color": "Xanh",
+                "size": "S",
+                "style": "Cổ lọ"
+              }
+            ],
+            "category": "Thời trang",
+            "highlights": "Chất liệu mềm mại, thoải mái, phong cách thời trang"
+          },
+          {
+            "id": "3",
+            "name": "Kem cọ xoong, tẩy rửa đồ gia dụng đa năng xuất Hàn",
+            "image": "https://tatoshopvn.com/storage/tatoshopvncom/7123/diaobqsz.jpg",
+            "price": 55000,
+            "description": "Mô tả chi tiết về sản phẩm 3.",
+            "discountedPrice": 45000,
+            "rating": 4.8,
+            "reviews": [
+              {
+                "name": "Người dùng E",
+                "comment": "Sản phẩm rất tốt, tôi yêu nó!",
+                "rating": 5,
+                "date": "2024-12-04",
+                "image": "https://example.com/review-image3.jpg",
+                "color": "Xám",
+                "size": "L",
+                "style": "Cổ tròn"
+              },
+              {
+                "name": "Người dùng F",
+                "comment": "Chất lượng vượt trội.",
+                "rating": 4,
+                "date": "2024-12-03",
+                "image": "https://example.com/review-image4.jpg",
+                "color": "Trắng",
+                "size": "M",
+                "style": "Cổ tim"
+              }
+            ],
+            "category": "Đồ gia dụng",
+            "highlights": "Tiết kiệm điện năng, dễ sử dụng, bảo hành 2 năm"
+          },
+          {
+            "id": "4",
+            "name": "Điện thoại iPhone 16 Pro Max 256GB",
+            "image": "https://cdn.nguyenkimmall.com/images/thumbnails/600/336/detailed/1127/V-IPHONE-16-PRO-SA-MAC-1_piql-ss_e9ow-mg.jpg",
+            "price": 34990000,
+            "description": "Phone 16 Pro Max sở hữu màn hình 6.9 inch với công nghệ ProMotion, mang lại trải nghiệm hiển thị mượt mà và sắc nét, lý tưởng cho giải trí và làm việc. Với chip A18 Pro mạnh mẽ, mẫu iPhone đời mới này cung cấp hiệu suất vượt trội, giúp xử lý mượt mà các tác vụ nặng như chơi game hay edit video. Chiếc điện thoại iPhone 16 mới này còn sở hữu hệ thống camera Ultra Wide 48MP cho khả năng chụp ảnh cực kỳ chi tiết, mang đến chất lượng hình ảnh ấn tượng trong mọi tình huống.",
+            "discountedPrice": 34590000,
+            "rating": 4.3,
+            "reviews": [
+              {
+                "name": "Người dùng G",
+                "comment": "Thiết kế đẹp, chất lượng ổn.",
+                "rating": 4,
+                "date": "2024-12-02",
+                "image": "",
+                "color": "Hồng",
+                "size": "M",
+                "style": "Cổ vuông"
+              }
+            ],
+            "category": "Điện tử",
+            "highlights": "Phong cách thời thượng, phù hợp với giới trẻ."
+          },
+          {
+            "id": "5",
+            "name": "Máy Hút Thổi Bụi Cực Mạnh Nguồn 220V Cao Cấp",
+            "image": "https://maycongnghiepdaiviet.com/thumb/625x625/1/upload/sanpham/may-hut-bui-cong-nghiep-daviclean-dv1-15jp-hepa.2-2571.jpg",
+            "price": 499000,
+            "description": "Là thương hiệu nổi tiếng chuyên cung cấp cho người dùng và các doanh nghiệp những dụng cụ cầm tay chuyên nghiệp và tốt. Những sản phẩm của  đã được chứng nhận về chất lượng và được tin dùng tại nhiều nước trên thế giới.Một thiết bị cầm tay tiêu biểu",
+            "discountedPrice": 299000,
+            "rating": 4.7,
+            "reviews": [
+              {
+                "name": "Người dùng H",
+                "comment": "Rất hài lòng, đáng mua.",
+                "rating": 5,
+                "date": "2024-12-01",
+                "image": "https://example.com/review-image5.jpg",
+                "color": "Vàng",
+                "size": "L",
+                "style": "Cổ tròn"
+              }
+            ],
+            "category": "Đồ gia dụng",
+            "highlights": "Tiện lợi, sử dụng dễ dàng."
+          }
     ]
 }
