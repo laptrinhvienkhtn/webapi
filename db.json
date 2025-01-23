@@ -1,0 +1,21 @@
+{
+    "Accounts":[
+        {
+            "fullName": "Lê Đức Anh 1",
+            "phone": "0359331452",
+            "email": "a@gmail.com",
+            "address": "Đường tỉnh 750, null, null, Bình Dương",
+            "password": "9999",
+            "profileImageUrl": null,
+            "id": "1",
+            "dateOfBirth": "",
+            "avatar": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fungdungthuongmaidientu3-ff18b6d4-d61d-4fa0-9290-1550a104edc7/ImagePicker/1cf3e85d-1fa9-4282-890d-03f64895ac3f.jpeg"
+        }
+    ],
+    "sanpham":[
+        {
+            "tensanpham":"iphone",
+            "gia":"20000000"
+        }
+    ]
+}
