@@ -172,24 +172,24 @@
       "status": "Chờ xác nhận"
   }
 ],
-"OrderDetail": [
+"orderDetails": [
   {
-      "orderId": "1001",
-      "productId": "1",
-      "quantity": 1,
-      "price": 1270000,
-      "color": "Đen",
-      "size": "L",
-      "style": "Cổ tròn"
+    "orderDetailId": "od_001",
+    "orderId": "1718123456789",
+    "productId": "p_001",
+    "productName": "Sản phẩm A",
+    "quantity": 2,
+    "unitPrice": 200000,
+    "totalPrice": 400000
   },
   {
-      "orderId": "1001",
-      "productId": "2",
-      "quantity": 1,
-      "price": 815000,
-      "color": "Đỏ",
-      "size": "XL",
-      "style": "Cổ tròn"
+    "orderDetailId": "od_002",
+    "orderId": "1718123456789",
+    "productId": "p_002",
+    "productName": "Sản phẩm B",
+    "quantity": 1,
+    "unitPrice": 100000,
+    "totalPrice": 100000
   }
 ]
 
