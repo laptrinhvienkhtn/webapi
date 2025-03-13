@@ -161,7 +161,7 @@
 
   ],
   "Order": [
-  {
+    {
       "orderId": "1001",
       "userId": "1",
       "fullName": "Lê Đức Anh 1",
@@ -170,27 +170,40 @@
       "totalItems": 2,
       "orderDate": "2025-02-08",
       "status": "Chờ xác nhận"
+  },
+  {
+      "id": "1741869751550",
+      "userId": "1",
+      "fullName": "Lê Đức Anh 1",
+      "shippingAddress": "Đường tỉnh 750, null, null, Bình Dương",
+      "totalAmount": 1000000,
+      "totalItems": 1,
+      "orderDate": "2025-03-13",
+      "status": "Chờ xác nhận"
+  },
+  {
+      "id": "1741869893881",
+      "userId": "1",
+      "fullName": "Lê Đức Anh 1",
+      "shippingAddress": "Đường tỉnh 750, null, null, Bình Dương",
+      "totalAmount": 1000000,
+      "totalItems": 1,
+      "orderDate": "2025-03-13",
+      "status": "Chờ xác nhận"
+  },
+  {
+      "id": "1741870006751",
+      "userId": "1",
+      "fullName": "Lê Đức Anh 1",
+      "shippingAddress": "Đường tỉnh 750, null, null, Bình Dương",
+      "totalAmount": 1000000,
+      "totalItems": 1,
+      "orderDate": "2025-03-13",
+      "status": "Chờ xác nhận"
   }
 ],
 "orderDetails": [
-  {
-    "orderDetailId": "od_001",
-    "orderId": "1718123456789",
-    "productId": "p_001",
-    "productName": "Sản phẩm A",
-    "quantity": 2,
-    "unitPrice": 200000,
-    "totalPrice": 400000
-  },
-  {
-    "orderDetailId": "od_002",
-    "orderId": "1718123456789",
-    "productId": "p_002",
-    "productName": "Sản phẩm B",
-    "quantity": 1,
-    "unitPrice": 100000,
-    "totalPrice": 100000
-  }
+  
 ]
 
 }
