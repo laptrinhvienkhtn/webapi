@@ -157,50 +157,35 @@
           ],
           "category": "Đồ gia dụng",
           "highlights": "Tiện lợi, sử dụng dễ dàng."
+        },
+        {
+          "id": "6",
+          "name": "Áo Thun Thời Trang PUMA Nam Ess No. 1 Logo Tee S",
+          "image": "https://img.lazcdn.com/g/p/1216545eb2d92091924340068217d7e9.png_720x720q80.png_.webp",
+          "price": 400000,
+          "description": "Là thương hiệu nổi tiếng chuyên cung cấp cho người dùng và các doanh nghiệp những dụng cụ cầm tay chuyên nghiệp và tốt. Những sản phẩm của  đã được chứng nhận về chất lượng và được tin dùng tại nhiều nước trên thế giới.Một thiết bị cầm tay tiêu biểu",
+          "discountedPrice": 400000,
+          "rating": 4.7,
+          "reviews": [
+            {
+              "name": "Người dùng H",
+              "comment": "Rất hài lòng, đáng mua.",
+              "rating": 5,
+              "date": "2024-12-01",
+              "image": "https://example.com/review-image5.jpg",
+              "color": "Vàng",
+              "size": "L",
+              "style": "Cổ tròn"
+            }
+          ],
+          "category": "Thời trang",
+          "highlights": "Tiện lợi, sử dụng dễ dàng."
         }
+
 
   ],
   "Order": [
-    {
-      "orderId": "1001",
-      "userId": "1",
-      "fullName": "Lê Đức Anh 1",
-      "shippingAddress": "Đường tỉnh 750, Bình Dương",
-      "totalAmount": 2085000,
-      "totalItems": 2,
-      "orderDate": "2025-02-08",
-      "status": "Chờ xác nhận"
-  },
-  {
-      "id": "1741869751550",
-      "userId": "1",
-      "fullName": "Lê Đức Anh 1",
-      "shippingAddress": "Đường tỉnh 750, null, null, Bình Dương",
-      "totalAmount": 1000000,
-      "totalItems": 1,
-      "orderDate": "2025-03-13",
-      "status": "Chờ xác nhận"
-  },
-  {
-      "id": "1741869893881",
-      "userId": "1",
-      "fullName": "Lê Đức Anh 1",
-      "shippingAddress": "Đường tỉnh 750, null, null, Bình Dương",
-      "totalAmount": 1000000,
-      "totalItems": 1,
-      "orderDate": "2025-03-13",
-      "status": "Chờ xác nhận"
-  },
-  {
-      "id": "1741870006751",
-      "userId": "1",
-      "fullName": "Lê Đức Anh 1",
-      "shippingAddress": "Đường tỉnh 750, null, null, Bình Dương",
-      "totalAmount": 1000000,
-      "totalItems": 1,
-      "orderDate": "2025-03-13",
-      "status": "Chờ xác nhận"
-  }
+    
 ],
 "orderDetails": [
   
