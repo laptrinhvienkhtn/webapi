@@ -185,10 +185,138 @@
 
   ],
   "Order": [
-    
+    {
+      "id": "1742558970363",
+      "userId": "1",
+      "fullName": "Lê Đức Anh 1",
+      "shippingAddress": "Đường tỉnh 750, null, null, Bình Dương",
+      "totalAmount": 554000,
+      "totalItems": 2,
+      "orderDate": "2025-03-21",
+      "status": "Chờ xác nhận"
+  },
+  {
+      "id": "1742559008488",
+      "userId": "1",
+      "fullName": "Lê Đức Anh 1",
+      "shippingAddress": "Đường tỉnh 750, null, null, Bình Dương",
+      "totalAmount": 1000000,
+      "totalItems": 1,
+      "orderDate": "2025-03-21",
+      "status": "Chờ xác nhận"
+  },
+  {
+      "id": "1742559034902",
+      "userId": "1",
+      "fullName": "Lê Đức Anh 1",
+      "shippingAddress": "Đường tỉnh 750, null, null, Bình Dương",
+      "totalAmount": 35990000,
+      "totalItems": 2,
+      "orderDate": "2025-03-21",
+      "status": "Chờ xác nhận"
+  },
+  {
+      "id": "1742559408893",
+      "userId": "1",
+      "fullName": "Lê Đức Anh 1",
+      "shippingAddress": "Đường tỉnh 750, null, null, Bình Dương",
+      "totalAmount": 35990000,
+      "totalItems": 2,
+      "orderDate": "2025-03-21",
+      "status": "Chờ xác nhận"
+  },
+  {
+      "id": "1742559946561",
+      "userId": "1",
+      "fullName": "Lê Đức Anh 1",
+      "shippingAddress": "Đường tỉnh 750, null, null, Bình Dương",
+      "totalAmount": 5400000,
+      "totalItems": 3,
+      "orderDate": "2025-03-21",
+      "status": "Chờ xác nhận"
+  }
 ],
 "orderDetails": [
-  
+  {
+    "id": "1742558970363",
+    "orderDetailId": "od_1742558970803",
+    "orderId": "1742558970363",
+    "productId": "5",
+    "productName": "Máy Hút Thổi Bụi Cực Mạnh Nguồn 220V Cao Cấp",
+    "quantity": 1,
+    "unitPrice": 499000,
+    "totalPrice": 499000
+},
+{
+    "id": "1742559008488",
+    "orderDetailId": "od_1742559008622",
+    "orderId": "1742559008488",
+    "productId": "2",
+    "productName": "Đầm Len Sọc Form Rộng Co Dãn Mix Khăn Sành Điệu, Váy Bầu Phong Cách Thời Trang",
+    "quantity": 1,
+    "unitPrice": 1000000,
+    "totalPrice": 1000000
+},
+{
+    "id": "1742559034902",
+    "orderDetailId": "od_1742559035020",
+    "orderId": "1742559034902",
+    "productId": "2",
+    "productName": "Đầm Len Sọc Form Rộng Co Dãn Mix Khăn Sành Điệu, Váy Bầu Phong Cách Thời Trang",
+    "quantity": 1,
+    "unitPrice": 1000000,
+    "totalPrice": 1000000
+},
+{
+    "id": 1742559409148,
+    "orderDetailId": "od_1742559409148",
+    "orderId": "1742559408893",
+    "productId": "2",
+    "productName": "Đầm Len Sọc Form Rộng Co Dãn Mix Khăn Sành Điệu, Váy Bầu Phong Cách Thời Trang",
+    "quantity": 1,
+    "unitPrice": 1000000,
+    "totalPrice": 1000000
+},
+{
+    "id": 1742559409290,
+    "orderDetailId": "od_1742559409290",
+    "orderId": "1742559408893",
+    "productId": "4",
+    "productName": "Điện thoại iPhone 16 Pro Max 256GB",
+    "quantity": 1,
+    "unitPrice": 34990000,
+    "totalPrice": 34990000
+},
+{
+    "id": 1742559946712,
+    "orderDetailId": "od_1742559946712",
+    "orderId": "1742559946561",
+    "productId": "2",
+    "productName": "Đầm Len Sọc Form Rộng Co Dãn Mix Khăn Sành Điệu, Váy Bầu Phong Cách Thời Trang",
+    "quantity": 2,
+    "unitPrice": 1000000,
+    "totalPrice": 2000000
+},
+{
+    "id": 1742559946851,
+    "orderDetailId": "od_1742559946851",
+    "orderId": "1742559946561",
+    "productId": "6",
+    "productName": "Áo Thun Thời Trang PUMA Nam Ess No. 1 Logo Tee S",
+    "quantity": 2,
+    "unitPrice": 400000,
+    "totalPrice": 800000
+},
+{
+    "id": 1742559946965,
+    "orderDetailId": "od_1742559946965",
+    "orderId": "1742559946561",
+    "productId": "1",
+    "productName": "Balo da thời trang chất liệu DA PU c",
+    "quantity": 2,
+    "unitPrice": 1300000,
+    "totalPrice": 2600000
+}
 ]
 
 }
